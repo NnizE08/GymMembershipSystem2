@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="GymMembershipSystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/GymMembershipSystem.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-j-9.2.0/mysql-connector-j-9.2.0/mysql-connector-j-9.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
